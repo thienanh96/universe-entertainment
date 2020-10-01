@@ -1,0 +1,14 @@
+{
+    "session": {
+        "cookieName": "vuser",
+        "cookieSecret": "vuser"
+    },
+    "port": 3000,
+    "nodeEnv": "development",
+    "db": {
+        "host": "adult-database.ck9fe4g7mdsx.us-east-1.rds.amazonaws.com",
+        "username": "postgres",
+        "password": "postgres",
+        "database": "postgres"
+    }
+}
